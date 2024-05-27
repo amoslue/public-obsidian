@@ -15,7 +15,7 @@ Life's but a walking shadow, a poor player. That struts and frets his hour upon 
 
 那些把肉从桌上拿走的人 那些把肉从桌上拿走的人 教导人们满足。 那些获进贡的人 要求人们牺牲。 那些吃饱喝够的人向饥饿者 描绘将来的美好时代。 那些把国家带到深渊里的人 说统治太难，普通人 不能胜任。 作者 / [德 ] 贝尔托·布莱希特 翻译 / 黄灿然 选自 /《致后代：布莱希特诗选》 #政治 
 
-![[attachment/Untitled 1.png]] #文学 
+![[Untitled 1.png]] #文学 
 
 When you don't create things, you become defined by your tastes rather than ability. Your tastes only narrow & exclude people. So create.
 

@@ -3,7 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
-- Author: [[Thinslice Meaning]]
+- Author: [[thinslice meaning]]
 - Full Title: thinslice meaning
 - Category: #articles
 - URL: https://www.google.com.hk/search?q=thinslice+meaning&oq=thinslice+meaning&aqs=chrome..69i57j0i13i512j0i8i13i30l5.2181j0j7&sourceid=chrome&ie=UTF-8
