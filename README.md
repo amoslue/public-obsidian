@@ -6,4 +6,4 @@ For visiting content online:
 
 amoslue.github.io/public-obsidian/
 
-“学习？学个屁！”
+”学习？学个屁！”
