@@ -1,15 +1,16 @@
 Steps of system design:
 
-	non-functional requirement: 
+non-functional requirement: 
 	- latency
 	- reliability
 	- consistency
 
-	QPS
+QPS:
 	- Total user * 10% = Daily Active User (DAU)
 	- Concurrent user = DAU * 10%
 	- Calculate update time T
 	- QPS = Concurrent user / T
+
 ![[Pasted image 20240529185708.png]] 
 
 ### Q: which to use as application layer? RESTful API or WebSocket?
