@@ -1,5 +1,6 @@
-Steps of system design:
+#systemDesign 
 
+Steps of system design:
 non-functional requirement: 
 	- latency
 	- reliability
@@ -22,3 +23,8 @@ QPS:
 **RESTful API**:
 - **Use**: Used to implement a **client-server** communication model based on request/response. It is suitable for **resource-oriented** operations, such as fetching, creating, updating, and deleting data (CRUD operations).
 - **Characteristics**: Each client request is sent via the HTTP protocol, and after the server responds, the connection is closed. The requests are stateless, meaning each request is independent and does not rely on previous interactions.
+-
+## Q: what is the difference between Kafka and Redis?
+- Kafka supports a pull-based system where publishers and subscribers share a common
+message queue from which subscribers pull messages as needed.
+- Redis supports a push-based system where the publisher distributes messages to all subscribers when an event occurs.
