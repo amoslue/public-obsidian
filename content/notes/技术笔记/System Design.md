@@ -28,3 +28,10 @@ QPS:
 - Kafka supports a pull-based system where publishers and subscribers share a common
 message queue from which subscribers pull messages as needed.
 - Redis supports a push-based system where the publisher distributes messages to all subscribers when an event occurs.
+
+## Q: when to use push or pull model?
+ - push model: producer -> consumer
+ ![[Pasted image 20240531185340.png]]
+ - pull model: producer <- consumer
+ ![[Pasted image 20240531185433.png]]
+ - comparison: ![[Pasted image 20240531185452.png]]
