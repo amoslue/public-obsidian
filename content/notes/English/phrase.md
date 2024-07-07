@@ -1,1 +1,3 @@
 shout out to: 大声喊出：在公开场合表达感激或认可的一种方式。
+unwavering support: 坚定的支持
+To add my two cents: 谦虚地表达自己的观点
