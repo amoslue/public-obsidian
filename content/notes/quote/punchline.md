@@ -2,3 +2,5 @@
 #punchline
 
 一二三四五六七，孝弟忠信礼义廉。
+
+never odd or even
