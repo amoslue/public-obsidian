@@ -24,7 +24,9 @@ drive home your point: to emphasize or clarify your argument or statement strong
 call dibs: 归我了
 get it over with: 快点结束
 
+pander to: 迎合（贬义）
 
+fraught with
 
 
 
