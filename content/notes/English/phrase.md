@@ -1,3 +1,11 @@
+rack one’s brain：绞尽脑汁
+beat someone to the punch: 先发制人
+All kidding aside：说真的
+Guesstimate：瞎猜
+
+
+cut corners: 〔为了节省时间、金钱或精力而〕马虎从事
+Come rain or shine: 风雨无阻
 shout out to: 大声喊出：在公开场合表达感激或认可的一种方式。
 unwavering support: 坚定的支持
 to add my two cents: 谦虚地表达自己的观点
@@ -27,6 +35,7 @@ get it over with: 快点结束
 pander to: 迎合（贬义）
 
 fraught with
-
+i can't put a finger on it: 我说不上来
+caught off guard：猝不及防
 
 
