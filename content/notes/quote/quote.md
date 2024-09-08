@@ -22,3 +22,5 @@ When you don't create things, you become defined by your tastes rather than abil
 “Anything is a waste of time unless you are fucking well or creating well or getting well or looming toward a kind of phantom-love-happiness.”
 ― Charles Bukowski
 
+When stupidity is considered patriotism,  it is unsafe to be intelligent. ---- Isaac Asimov
+
