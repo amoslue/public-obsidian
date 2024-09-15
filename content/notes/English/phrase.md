@@ -1,3 +1,9 @@
+Indulge me: is a phrase used to ask someone to go along with a request or idea, even if it may seem unnecessary or trivial.
+
+Don't snap at me: 别凶我
+I will field that: 我来解决/回答
+
+
 rack one’s brain：绞尽脑汁
 beat someone to the punch: 先发制人
 All kidding aside：说真的
