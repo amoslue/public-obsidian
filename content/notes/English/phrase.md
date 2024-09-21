@@ -1,9 +1,36 @@
+can it：闭嘴
+burning bridges: 与他人的关系永久破裂或无法修复。
+
+the ship has sailed: 时机已过
+caught red-handed: 当场抓获
+bite the bullet: 忍辱负重
+
+add insult to injury：伤口撒盐
+
+
+suffice it to say: 一言以蔽之
+
+newly-minted 新生产的
+muck about 混乱，胡闹：指没有目的地或无所事事地浪费时间，不认真对待某事。
+  
+i have a hunch：我有预感
+epitome: 典型
+within reason：合情合理
+
+hit the nail on the head：一语中的，一针见血
+your reputation precedes you
+
+get carried away：忘乎所以
+
+
+we will table that for later：一会再谈 
+cherry on top: 锦上添花
 Indulge me: is a phrase used to ask someone to go along with a request or idea, even if it may seem unnecessary or trivial.
 
 Don't snap at me: 别凶我
 I will field that: 我来解决/回答
 
-
+just a hunch: 只是直觉
 rack one’s brain：绞尽脑汁
 beat someone to the punch: 先发制人
 All kidding aside：说真的

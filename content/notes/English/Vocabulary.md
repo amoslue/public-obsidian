@@ -1,4 +1,32 @@
+foolhardy：有勇无谋的
+begrudge：忌妒/吝惜
+pinnacle：顶峰
+
+unanimous：一致通过的，无异议的
+pestilent：令人非常讨厌的
+
+contentious: 有争议的
+contingency plan：应急计划
+
+
+catchy: memorable
+
+regurgitate: 反复思考
+
+subliminal: 潜意识的
+predicament：窘境
+
+It's incumbent on xxx：有责任的
+
+dispense with：省去，免除
+cow：恐吓
+would-be：准xx
 fleece：敲竹杠
+imposition：无理的请求
+fulcrum：n. The point or support on which a lever pivots.
+out-of-touch：不合时宜的
+slam dunk：令人赞叹的行为，令人瞩目之举
+
 
  1, mugshot    
 面部照片
@@ -39,7 +67,7 @@ n.（Ado）（意、尼）阿杜（人名）
 adj. 兼收并蓄的；不拘一格的；折中的，折中主义的
 n. 兼收并蓄的人；折中派的人，折中主义者
 
-12, below par    
+12, ==below par==    
 不及格：低于预期的，不太好的。
 身体不适：感觉不太好。
 

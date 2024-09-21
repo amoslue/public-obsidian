@@ -1,9 +1,5 @@
-#config 
-![[Pasted image 20230728133516.png]] 
 
-
-#config
-maven找不到java_home解决方案：
+## maven找不到java_home解决方案：
 
 The `JAVA_HOME` environment variable is typically needed by Maven to locate the Java installation on your system. If you encounter the error message "The JAVA_HOME environment variable is not defined correctly," it means that Maven cannot find the correct Java installation.
 
@@ -54,3 +50,19 @@ To resolve this issue, you can follow these steps to set the `JAVA_HOME` environ
    It should output the path to your Java installation.
 
 Once you have correctly set the `JAVA_HOME` environment variable, you should be able to use Maven without the error message.
+
+## macOS打开隐藏目录：command+shift+G 
+
+## GCC debug
+#os
+
+![[Pasted image 20230805013432.png]] 
+![[Pasted image 20230805014143.png]]
+
+![[Pasted image 20230805014856.png]]
+怎么看.o文件？
+	：readelf -h/s/ + 文件名
+
+gcc  _-g_：带调试信息
+![[Pasted image 20230805110752.png]]
+![[Pasted image 20230805112837.png]]

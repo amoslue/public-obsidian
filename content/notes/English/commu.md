@@ -1,0 +1,1 @@
+trust = authenticity + logic + empathy

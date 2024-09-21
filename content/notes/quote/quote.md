@@ -1,3 +1,13 @@
+“How many times have people used a pen or paintbrush because they couldn’t pull the trigger?” — Virginia Woolf 
+
+Being against evil doesn't make you good. — Hemingway 
+
+对冲基金顾问[Adam Robinson](https://iamadamrobinson.com/)曾经说过，投资的关键在于，当你听到脑海中有一个声音说这件事儿不合常规时，你要把这件事儿当做金矿来看待。
+
+POP写作法则代表着：Personal （个性化）+ Observational（观察性）+ Playful (趣味性）。
+
+发现无聊的故事充满了「然后」，有趣的故事则多用「但是」和「因此」。
+
 All of humanity's problems stem from man's inability to sit quietly in a room alone.
 
 ![[Pasted image 20230810140006.png]]
@@ -26,3 +36,4 @@ When you don't create things, you become defined by your tastes rather than abil
 
 When stupidity is considered patriotism,  it is unsafe to be intelligent. ---- Isaac Asimov
 
+The funny thing about common sense is it's not so common.
