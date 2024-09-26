@@ -1,3 +1,5 @@
+limbo：a uncertain state
+
 foolhardy：有勇无谋的
 begrudge：忌妒/吝惜
 pinnacle：顶峰

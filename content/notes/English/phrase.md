@@ -1,3 +1,14 @@
+gear-change：换档，改变
+wax lyrical: 热情洋溢地谈论
+
+be out of practice: 久不练习; 荒疏
+take this with grain of salt：有待商榷
+nip it in the bud：扼杀在萌芽，防患于未然
+
+
+give someone too much credit: 太抬举某人
+I don't have a dog in this fight: 我没有立场
+
 can it：闭嘴
 burning bridges: 与他人的关系永久破裂或无法修复。
 
