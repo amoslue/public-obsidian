@@ -1,3 +1,5 @@
+single handedly: 一手操办
+
 gear-change：换档，改变
 wax lyrical: 热情洋溢地谈论
 
