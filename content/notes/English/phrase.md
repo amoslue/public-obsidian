@@ -1,3 +1,7 @@
+seep out：渗出
+
+sever ties with：断绝关系
+half-measure: 权宜之计
 single handedly: 一手操办
 
 gear-change：换档，改变

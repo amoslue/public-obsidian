@@ -1,3 +1,5 @@
+landslide：压倒性胜利
+
 sensational: 轰动的，激动人心的；夸张的，耸人听闻的；<非正式>非常好的，吸引人的
 
 limbo：a uncertain state
