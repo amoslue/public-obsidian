@@ -1,6 +1,6 @@
 # amoslue's personal notes
 
-This is a note repository for a person who seldom study and take notes.
+This is a note repository for a person who seldom studies and takes notes.
 
 For visiting content online:
 [click here](https://amoslue.github.io/public-obsidian/)
