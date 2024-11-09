@@ -7,3 +7,4 @@
 ![[Pasted image 20241109123815.png]]
 - P54: Odds form of Bayes' Rule:
 ![[Pasted image 20241109124421.png]]
+![[Pasted image 20241109131332.png]]
