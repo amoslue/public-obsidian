@@ -8,3 +8,5 @@
 - P54: Odds form of Bayes' Rule:
 ![[Pasted image 20241109124421.png]]
 ![[Pasted image 20241109131332.png]]
+- P54: Law of total probability and proof
+![[Pasted image 20241109133848.png]]
