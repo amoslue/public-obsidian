@@ -1,3 +1,6 @@
+on tap: something that is **readily available or easily accessible whenever needed**.
+
+slack off: 摸鱼
 seep out：渗出
 
 sever ties with：断绝关系
