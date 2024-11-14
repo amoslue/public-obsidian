@@ -1,6 +1,9 @@
+### how to sort array with index
+		queries = sorted([(q, i) for i,q in enumerate(queries)])
+		
 #leetcode 
 快排找Kth:
-```
+```java
 public class KthLargestQuickSort {
 
     public static int findKthLargest(int[] nums, int k) {
@@ -66,7 +69,7 @@ Arrays.copyOfRange(nums, 0, n);
 2. while (left <= right)
 3. 寻找边界
 	1. 找左边界： 
-	```
+	```java
 		else if (nums[mid] == target) {
 		 // 别返回，锁定左侧边界
 		 right = mid - 1;
@@ -77,7 +80,7 @@ Arrays.copyOfRange(nums, 0, n);
 	```	
 	
 	2. 找右边界：
-	```
+	```java
 			else if (nums[mid] == target) {
 			 // 别返回，锁定右侧边界
 			 left = mid + 1;

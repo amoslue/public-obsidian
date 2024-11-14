@@ -11,3 +11,7 @@
 - P54: Law of total probability and proof
 ![[Pasted image 20241109133848.png]]
 - P56: Example of what is the probability of having a disease with a positive test result? ![[Pasted image 20241111003441.png]]
+- p60: Bayes' rule with conditioning:
+ ![[Pasted image 20241114140636.png]]
+ - Proof for 2.4.2
+![[Pasted image 20241114143419.png]]
