@@ -1,3 +1,5 @@
+a flash in the pan: 昙花一现
+
 on tap: something that is **readily available or easily accessible whenever needed**.
 
 slack off: 摸鱼
