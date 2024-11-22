@@ -1,3 +1,4 @@
+go out of one's way to do something: 特意地
 a flash in the pan: 昙花一现
 
 on tap: something that is **readily available or easily accessible whenever needed**.
