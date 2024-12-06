@@ -1,3 +1,8 @@
+nostrum: an idea that someone thinks will solve a problem easily, but will probably not help at all 〔实际上也许毫无用处的〕妙计，妙策
+
+vicissitudes: the continuous changes and problems that affect a situation or someone’s life 〔逐渐影响某种局面或个人生活的〕改变，变迁；兴衰
+
+
 landslide：压倒性胜利
 
 sensational: 轰动的，激动人心的；夸张的，耸人听闻的；<非正式>非常好的，吸引人的
