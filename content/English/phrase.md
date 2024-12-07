@@ -1,4 +1,7 @@
-take fright：
+swing by: 顺路造访
+be rooting for: 支持
+
+take fright： 受惊吓〔尤指因而逃走或未做计划的事情〕
 touch-and-go: precarious/ uncertain
 
 go out of one's way to do something: 特意地

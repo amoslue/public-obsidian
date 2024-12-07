@@ -1,3 +1,5 @@
+“The last capitalist we hang shall be the one who sold us the rope.” -----Karl Marx
+
 “How many times have people used a pen or paintbrush because they couldn’t pull the trigger?” — Virginia Woolf 
 
 Being against evil doesn't make you good. — Hemingway 
