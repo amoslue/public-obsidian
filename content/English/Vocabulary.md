@@ -1,3 +1,5 @@
+pandemonium：a situation in which there is a lot of [noise](x-dictionary:d:noise "noise") because people are [angry](x-dictionary:d:angry "angry"), [confused](x-dictionary:d:confuse "confuse") or [frightened](x-dictionary:d:frighten "frighten") 〔人们因感到愤怒、迷惑或恐惧而引起的〕大混乱，嘈杂，骚乱
+
 nostrum: an idea that someone thinks will solve a problem easily, but will probably not help at all 〔实际上也许毫无用处的〕妙计，妙策
 
 vicissitudes: the continuous changes and problems that affect a situation or someone’s life 〔逐渐影响某种局面或个人生活的〕改变，变迁；兴衰
