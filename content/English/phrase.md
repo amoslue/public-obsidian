@@ -1,3 +1,5 @@
+harp on about: 令人厌烦地喋喋不休
+smarty-pants：自作聪明的人
 swing by: 顺路造访
 be rooting for: 支持/为……加油
 

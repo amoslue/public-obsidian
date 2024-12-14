@@ -1,3 +1,4 @@
+sap: 削弱，消耗
 pandemonium：人们因感到愤怒、迷惑或恐惧而引起的大混乱，嘈杂，骚乱
 
 nostrum: an idea that someone thinks will solve a problem easily, but will probably not help at all 〔实际上也许毫无用处的〕妙计，妙策
