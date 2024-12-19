@@ -1,4 +1,4 @@
-dainty: 小巧的，精致的，文雅
+dainty: 小巧的，精致的，文雅的
 
 bombshell：重磅消息
 Atrocity：暴行

@@ -1,3 +1,5 @@
+sole claim：wei yi zh
+
 stave something: keep someone or something from [reaching](x-dictionary:d:reach "reach") you or [affecting](x-dictionary:d:affect "affect") you for a period of time 挡开；避开
 
 flaunt: 夸耀，炫耀〔含贬义〕
