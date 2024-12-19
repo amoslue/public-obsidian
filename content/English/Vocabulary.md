@@ -1,4 +1,5 @@
 bombshell：重磅消息
+acrimonious：激烈的，唇枪舌剑的，acrimonious dispute
 scapegoat: 替罪羊
 onerous: 繁重的，艰巨的，困难的
 
