@@ -1,3 +1,6 @@
+stave something: keep someone or something from [reaching](x-dictionary:d:reach "reach") you or [affecting](x-dictionary:d:affect "affect") you for a period of time 挡开；避开
+
+
 poetic justice: 恶有恶报，应得的惩罚
 harp on about: 令人厌烦地喋喋不休
 smarty-pants：自作聪明的人
