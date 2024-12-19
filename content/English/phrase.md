@@ -1,5 +1,7 @@
 stave something: keep someone or something from [reaching](x-dictionary:d:reach "reach") you or [affecting](x-dictionary:d:affect "affect") you for a period of time 挡开；避开
 
+flaunt: 夸耀，炫耀〔含贬义〕
+if you’ve got it, flaunt it: 有的话就展示出来〔幽默用法，用于叫人不要掩饰自己的美貌、财富或能力〕
 
 poetic justice: 恶有恶报，应得的惩罚
 harp on about: 令人厌烦地喋喋不休
