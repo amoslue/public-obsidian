@@ -1,3 +1,5 @@
+dainty: 小巧的，精致的，文雅
+
 bombshell：重磅消息
 Atrocity：暴行
 cheeky:  厚脸皮的，放肆的，无礼的，冒失的
