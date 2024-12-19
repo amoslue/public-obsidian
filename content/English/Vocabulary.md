@@ -1,3 +1,9 @@
+bombshell：重磅消息
+scapegoat: 替罪羊
+onerous: 繁重的，艰巨的，困难的
+
+uppity: behaving as if you are more important than you really are 傲慢的，自大的，盛气凌人的
+
 sap: 削弱，消耗
 pandemonium：人们因感到愤怒、迷惑或恐惧而引起的大混乱，嘈杂，骚乱
 
