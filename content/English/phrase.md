@@ -1,4 +1,4 @@
-sole claim：wei yi zh
+sole claim：唯一主张
 
 stave something: keep someone or something from [reaching](x-dictionary:d:reach "reach") you or [affecting](x-dictionary:d:affect "affect") you for a period of time 挡开；避开
 

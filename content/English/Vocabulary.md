@@ -1,3 +1,5 @@
+apropos of something: 说到某事，关于某事，就某事而言〔用于引入与刚才话题有关的新话题〕
+
 dainty: 小巧的，精致的，文雅的
 
 bombshell：重磅消息
