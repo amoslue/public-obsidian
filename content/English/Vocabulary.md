@@ -1,3 +1,5 @@
+saucy: 粗鲁的；不雅的
+
 preposterous: completely unreasonable or silly 荒唐的，荒谬绝伦的
 
 apropos of something: 说到某事，关于某事，就某事而言〔用于引入与刚才话题有关的新话题〕
