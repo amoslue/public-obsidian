@@ -1,3 +1,5 @@
+preposterous: completely unreasonable or silly 荒唐的，荒谬绝伦的
+
 apropos of something: 说到某事，关于某事，就某事而言〔用于引入与刚才话题有关的新话题〕
 
 dainty: 小巧的，精致的，文雅的
@@ -96,7 +98,8 @@ n. 兼收并蓄的人；折中派的人，折中主义者
 
 12, ==below par==    
 不及格：低于预期的，不太好的。
-身体不适：感觉不太好。
+身体不适：感觉不太好
+。
 
 13, corkscrew    
 n.螺旋形开瓶器
