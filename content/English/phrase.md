@@ -1,3 +1,9 @@
+imbued: 使...充满
+his philosophical writings are imbued with religious belief.
+
+curry favour with: 
+
+blurt out: 脱口而出：指在不加思索的情况下突然说出某事。
 covert sniping
 sole claim：唯一主张
 
