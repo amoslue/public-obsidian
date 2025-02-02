@@ -1,7 +1,8 @@
+ride out: 平安度过，安然度过
 imbued: 使...充满
 his philosophical writings are imbued with religious belief.
 
-curry favour with: 
+curry favour with: 讨好，巴结：通过奉承或其他手段来获取某人的好感或支持。
 
 blurt out: 脱口而出：指在不加思索的情况下突然说出某事。
 covert sniping
