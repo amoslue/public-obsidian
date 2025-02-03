@@ -1,3 +1,4 @@
+sleight：手法 技巧
 saucy: 粗鲁的；不雅的
 
 preposterous: completely unreasonable or silly 荒唐的，荒谬绝伦的
