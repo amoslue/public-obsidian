@@ -26,3 +26,27 @@ When to use Influx DB and Prometheus? #systemDesign
     - You need a flexible and powerful query language for time-series data (PromQL).
     - You want built-in support for alerting and integrating with alert management systems.
     - You are looking for a standalone, self-contained monitoring solution.
+
+## What is the difference between concurrency and parallelism?
+#### **Concurrency**
+
+- **Definition**: Concurrency is about **managing multiple tasks at the same time**, but not necessarily executing them simultaneously. It focuses on structuring a program to handle multiple tasks in overlapping time periods.
+    
+- **How it works**: Concurrency is achieved by **interleaving tasks**—switching between them quickly to give the illusion of simultaneous execution. This can be done using techniques like **threading**, **asynchronous programming**, or **event loops**.
+    
+- **Goal**: Improve responsiveness and efficiency, especially in **I/O-bound tasks** (e.g., waiting for network responses, file I/O, or user input).
+    
+- **Example**: A web server handling multiple client requests concurrently. While one request is waiting for a database query, the server can process another request.
+    
+
+---
+
+#### **Parallelism**
+
+- **Definition**: Parallelism is about **executing multiple tasks simultaneously**, typically by leveraging multiple CPU cores or processors.
+    
+- **How it works**: Parallelism requires hardware support (e.g., multi-core CPUs or distributed systems). Tasks are divided into subtasks that run in parallel on different cores or machines.
+    
+- **Goal**: Improve performance and speed, especially in **CPU-bound tasks** (e.g., mathematical computations, image processing, or data analysis).
+    
+- **Example**: Rendering a video by splitting the frames across multiple CPU cores or GPUs.
