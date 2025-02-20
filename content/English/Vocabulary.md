@@ -1,3 +1,6 @@
+squander
+fanfare
+
 sleight：手法 技巧
 saucy: 粗鲁的；不雅的
 

@@ -1,3 +1,6 @@
+**drool over**： 垂涎于
+pep talk
+
 ride out: 平安度过，安然度过
 imbued: 使...充满
 his philosophical writings are imbued with religious belief.
@@ -6,9 +9,9 @@ curry favour with: 讨好，巴结：通过奉承或其他手段来获取某人�
 
 blurt out: 脱口而出：指在不加思索的情况下突然说出某事。
 covert sniping
-sole claim：唯一主张
 
-stave something: keep someone or something from [reaching](x-dictionary:d:reach "reach") you or [affecting](x-dictionary:d:affect "affect") you for a period of time 挡开；避开
+sole claim：唯一主张
+stave something:  挡开；避开
 
 flaunt: 夸耀，炫耀〔含贬义〕
 if you’ve got it, flaunt it: 有的话就展示出来〔幽默用法，用于叫人不要掩饰自己的美貌、财富或能力〕
