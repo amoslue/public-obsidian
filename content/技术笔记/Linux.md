@@ -1,4 +1,6 @@
-![[Pasted image 20250410133942.png]]
+![[Pasted image 20250425103949.png]]
+
+
 ![[Pasted image 20230827160350.png]]
 #linux
 
