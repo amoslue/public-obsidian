@@ -88,7 +88,7 @@ Arrays.copyOfRange(nums, 0, n);
 			if (left == nums.length) return -1;
 			return nums[left] == target ? left : -1;
 	```
-
+![[Pasted image 20250504181153.png]]
 
 java堆：
 ![[Pasted image 20231031132319.png]]
