@@ -44,9 +44,9 @@ When to use Influx DB and Prometheus? #systemDesign
 #### **Parallelism**
 
 - **Definition**: Parallelism is about **executing multiple tasks simultaneously**, typically by leveraging multiple CPU cores or processors.
-    
 - **How it works**: Parallelism requires hardware support (e.g., multi-core CPUs or distributed systems). Tasks are divided into subtasks that run in parallel on different cores or machines.
-    
 - **Goal**: Improve performance and speed, especially in **CPU-bound tasks** (e.g., mathematical computations, image processing, or data analysis).
-    
 - **Example**: Rendering a video by splitting the frames across multiple CPU cores or GPUs.
+
+### what is ACID in database transaction?
+![[Pasted image 20250623173448.png]]
