@@ -32,4 +32,10 @@ In an interview, you should also be able to explain:
 - Fault Isolation: How failures in one service are contained and don't cascade to others
 
 ### Common non-functional requirement
-![[Pasted image 20250701140456.png]]
+- Performance: How fast does the system need to respond to user actions or process requests? This often includes defining acceptable latency thresholds for key operations like loading a user’s feed or posting a tweet.
+- Availability: How consistently should the system be accessible to users? This could mean ensuring near 100% uptime through redundancy, failover mechanisms, and proactive monitoring.
+- Scalability: Can the system handle increasing numbers of users, data, or traffic without a degradation in performance? Scalability can be both vertical (upgrading resources on a single server) and horizontal (adding more servers or instances). For large-scale systems, horizontal scalability is often preferred.
+- Reliability: How well does the system handle failures? This includes designing for fault tolerance so that the system can recover from crashes or unexpected errors without losing functionality or data.
+- Consistency: How accurately does the system reflect the same data across all users and operations? In systems with distributed databases, maintaining strong consistency can be challenging but critical for certain operations.
+- Durability: How safely is data stored? This involves ensuring that data, once written, isn’t lost due to hardware failures, power outages, or other disruptions.
+- Security: How well does the system protect against unauthorized access or attacks? This includes safeguarding sensitive user data and preventing exploits such as SQL injection or distributed denial-of-service (DDoS) attacks.
