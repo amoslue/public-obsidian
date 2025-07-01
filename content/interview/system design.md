@@ -39,3 +39,6 @@ In an interview, you should also be able to explain:
 - Consistency: How accurately does the system reflect the same data across all users and operations? In systems with distributed databases, maintaining strong consistency can be challenging but critical for certain operations.
 - Durability: How safely is data stored? This involves ensuring that data, once written, isn’t lost due to hardware failures, power outages, or other disruptions.
 - Security: How well does the system protect against unauthorized access or attacks? This includes safeguarding sensitive user data and preventing exploits such as SQL injection or distributed denial-of-service (DDoS) attacks.
+
+## Common template
+![[Pasted image 20250701203509.png]]
