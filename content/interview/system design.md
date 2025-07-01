@@ -30,3 +30,6 @@ In an interview, you should also be able to explain:
 - Service Discovery: How services find and communicate with each other
 - Data Consistency: How to maintain data consistency across services
 - Fault Isolation: How failures in one service are contained and don't cascade to others
+
+### Common non-functional requirement
+![[Pasted image 20250701140456.png]]
