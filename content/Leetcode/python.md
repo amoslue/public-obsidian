@@ -34,3 +34,10 @@ print(doubled_numbers)
 # Output: [2, 4, 6, 8, 10]
 
 ```
+
+- How to make heap compare for ListNodes?
+```python
+小顶堆：
+ListNode.__lt__ = lambda a,b : a.val < b.val
+
+```
