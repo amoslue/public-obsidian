@@ -1,9 +1,12 @@
+On the ball: being alert, attentive, and quick to understand or react.
+Part and parcel of: 必不可少的yi bu f
+
 on the nose: 准确无误：表示完全正确或精确。
 factor in: 将……计入，将……考虑进去
 topple over: 倒塌
 a slap on the wrist
 **drool over**： 垂涎于
-pep talk: 鼓舞士气的讲话˚
+pep talk: 鼓舞士气的讲话
 
 ride out: 平安度过，安然度过
 imbued: 使...充满
@@ -100,7 +103,8 @@ to add my two cents: 谦虚地表达自己的观点
 get bogged down: 陷入泥沼
 whatever floats your boat: 你开心就好
 ignorance is bliss
-just own up to it: 你就承认了吧
+just own
+up to it: 你就承认了吧
 bet your boots: you can count on it / you can be certain of it
 
 put one's shoulder to the wheel: work hard
