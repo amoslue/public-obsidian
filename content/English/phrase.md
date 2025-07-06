@@ -1,5 +1,5 @@
-miss the boat: cuo shi lian
-
+miss the boat: 错失良机
+pull your leg: 开玩笑
 On the ball: being alert, attentive, and quick to understand or react.
 Part and parcel of: 必不可少的一部分
 
