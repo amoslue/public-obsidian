@@ -1,5 +1,5 @@
 On the ball: being alert, attentive, and quick to understand or react.
-Part and parcel of: 必不可少的yi bu f
+Part and parcel of: 必不可少的一部分
 
 on the nose: 准确无误：表示完全正确或精确。
 factor in: 将……计入，将……考虑进去

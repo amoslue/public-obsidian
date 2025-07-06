@@ -1,3 +1,5 @@
+risible vs ridiculous
+![[Pasted image 20250706225146.png]]
 rundown
 squander
 fanfare
