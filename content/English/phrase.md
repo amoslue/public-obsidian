@@ -1,3 +1,5 @@
+miss the boat: cuo shi lian
+
 On the ball: being alert, attentive, and quick to understand or react.
 Part and parcel of: 必不可少的一部分
 

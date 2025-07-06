@@ -3,7 +3,7 @@ risible vs ridiculous
 rundown
 squander
 fanfare
-
+pernicious: secretly harmful + long-term damage
 sleight：手法 技巧
 saucy: 粗鲁的；不雅的
 
