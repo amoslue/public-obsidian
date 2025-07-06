@@ -1,8 +1,9 @@
-factor in
-topple over
+on the nose: 准确无误：表示完全正确或精确。
+factor in: 将……计入，将……考虑进去
+topple over: 倒塌
 a slap on the wrist
 **drool over**： 垂涎于
-pep talk
+pep talk: 鼓舞士气的讲话˚
 
 ride out: 平安度过，安然度过
 imbued: 使...充满
