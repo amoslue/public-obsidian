@@ -1,5 +1,14 @@
 #resource
 
+
+========== road map =========
+https://github.com/milanm/DevOps-Roadmap
+react: https://github.com/adam-golab/react-developer-roadmap
+other topic: https://github.com/kamranahmedse/developer-roadmap
+
+
+====== interview oriented ======
+
 interview review content for July:
 https://github.com/afatcoder/LeetcodeTop/blob/master/bytedance/backend.md (leetcode)
 https://github.com/twowaits/SDE-Interview-Questions/tree/master/Amazon (tech questions)
@@ -8,6 +17,7 @@ https://github.com/donnemartin/system-design-primer
 
 LLD: https://github.com/ashishps1/awesome-low-level-design
 HLD: https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD?tab=readme-ov-file
+
 
 
 ===== google ======
