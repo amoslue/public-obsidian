@@ -22,3 +22,7 @@ A **Docker image** is a **read-only template** that contains:
 - All necessary dependencies (libraries, tools, config)
 - A base OS layer
 It serves as a **blueprint** to create one or more **containers**. Images are built using a **Dockerfile**.
+
+### Mapping the port
+docker run -p host:container xxx
+![[Pasted image 20250707193545.png]]
