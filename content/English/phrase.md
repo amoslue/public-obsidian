@@ -1,4 +1,4 @@
-on the back burner
+on the back burner: 不受重视，被搁置：处于不会立即得到关注和行动的位置。
 miss the boat: 错失良机
 pull your leg: 开玩笑
 

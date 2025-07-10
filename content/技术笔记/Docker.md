@@ -59,3 +59,8 @@ docker run -v $(pwd):/app image_name       # Bind mount current dir
 docker-compose up                         # Start all services
 docker-compose down                       # Stop and remove all
 docker-compose build                      # Build images
+
+
+========
+a process running as PID 1 in container is a process running on random PID on the host. namespace ensures the processes in the container runs isolated from the  
+![[Pasted image 20250710201348.png]]

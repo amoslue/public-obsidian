@@ -1,3 +1,7 @@
+Amazon BQ:
+https://www.tryexponent.com/blog/how-to-nail-amazons-behavioral-interview-questions
+
+
 **Question:** What is the most exciting thing about being a programmer? 
 **Answer:** The most exhilarating part of being a programmer is the ability to translate abstract ideas into tangible solutions that can solve real-world problems. Programming is not just about writing code; it's about creating a bridge between technology and human needs. The continuous evolution of technology means that as a programmer, I am always learning and adapting, which keeps the work dynamic and exciting. The satisfaction of seeing a piece of software you developed being used effectively, improving processes, or making someone's life easier is immensely fulfilling. It's a field where creativity, logic, and technical skills come together to innovate and push boundaries, which I find incredibly stimulating.
 
