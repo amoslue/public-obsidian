@@ -62,5 +62,5 @@ docker-compose build                      # Build images
 
 
 ========
-a process running as PID 1 in container is a process running on random PID on the host. namespace ensures the processes in the container runs isolated from the  
+a process running as PID 1 in container is a process running on random PID on the host. namespace ensures the processes in the container runs isolated from the host. 
 ![[Pasted image 20250710201348.png]]
