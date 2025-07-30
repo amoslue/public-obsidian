@@ -55,6 +55,11 @@ docker volume create volume_name           # Create volume
 docker run -v volume_name:/path image_name # Mount volume
 docker run -v $(pwd):/app image_name       # Bind mount current dir
 
+Two type of mounting in Docker:
+![[Pasted image 20250715233504.png]]
+1. Volume mount![[Pasted image 20250715233557.png]]
+2. Bind mount![[Pasted image 20250715233639.png]]
+
 ==== compose ===
 docker-compose up                         # Start all services
 docker-compose down                       # Stop and remove all

@@ -1,3 +1,7 @@
+under our belt: 已经完成或获得的经验、技能或成就：表示某事已经成功完成或已经具备了一定的经验和能力。
+be hoist with/by your own petard  搬起石头砸自己的脚，害人反害己〔常为幽默用法〕
+
+
 on the back burner: 不受重视，被搁置：处于不会立即得到关注和行动的位置。
 miss the boat: 错失良机
 pull your leg: 开玩笑
