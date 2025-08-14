@@ -16,6 +16,6 @@ Tips to ask : traffic patterns, data retention policies, and user experience exp
 
 **What you should do:** Create a habit of immediately following every design decision with "The trade-off here is..." Even when proposing your preferred solution, explicitly mention its disadvantages. When making decisions, clearly state which quality you're optimizing for and which you're sacrificing, then justify why that trade-off makes sense given the requirements you've established.
 
-
+**What you should do:** Treat every piece of interviewer feedback as valuable information, not criticism. When they suggest an alternative approach, respond with genuine curiosity. Practice phrases like "That's an interesting perspective I hadn't considered" or "Let me explore that approach for a moment." Even if you ultimately decide their suggestion doesn't fit your design, show your reasoning process rather than dismissing it outright.
 
 **What you should do:** When diving deeper, explicitly signal the transition: "Let's zoom in on the data storage layer since that's critical for this system." Similarly, when returning to higher-level concerns, say something like "Before we get too deep into implementation details, let's make sure this approach aligns with our overall requirements." Pay close attention to the interviewer's questions: if they ask about a specific component, that's your cue to demonstrate depth in that area. Practice recognizing when you're stuck at one level of abstraction and develop the habit of zooming out periodically to reconnect with the big picture.
