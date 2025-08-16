@@ -2,7 +2,7 @@ not leaving anything to chance: 做好万全准备
 come out ahead: 取得优势
 pull at that thread
 
-
+show ou
 
 backpedaling : 倒退，撤回（backpedal 的现在分词）：在言论、观点、决策等方面的改变，通常是为了避免承担责任或面临不利局面。
 
