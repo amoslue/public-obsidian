@@ -1,3 +1,14 @@
+contrition: 悔罪的，悔悟的，痛悔的
+divert: 转移，分散〔别人的注意力〕
+dab: 轻擦
+iffy: 未确定的；富于偶然性的；可疑的
+downright
+
+prominent
+tangy
+something clattered on the floor
+
+
 malleable: something easy to press or change
 risible vs ridiculous
 ![[Pasted image 20250706225146.png]]

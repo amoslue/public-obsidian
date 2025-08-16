@@ -1,3 +1,30 @@
+not leaving anything to chance: 做好万全准备
+come out ahead: 取得优势
+pull at that thread
+
+
+
+backpedaling : 倒退，撤回（backpedal 的现在分词）：在言论、观点、决策等方面的改变，通常是为了避免承担责任或面临不利局面。
+
+it gets to a point where 
+touch-up: 补装
+on full display: 完全展示
+a far-off crush
+ad nauseum: 重复到令人讨厌
+
+hold something over somebody
+mull over the idea
+
+have a lightbulb moment 
+smooth the water
+
+catch a whiff of 
+have all the cards in one's hand
+
+
+Bend the rules
+Cut me some slack
+
 under our belt: 已经完成或获得的经验、技能或成就：表示某事已经成功完成或已经具备了一定的经验和能力。
 be hoist with/by your own petard  搬起石头砸自己的脚，害人反害己〔常为幽默用法〕
 
