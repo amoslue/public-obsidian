@@ -1,0 +1,6 @@
+MangoDB
+Snowflake
+Stripe
+Workday
+Paypal
+Squarespace
