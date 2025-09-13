@@ -42,3 +42,8 @@ In an interview, you should also be able to explain:
 
 ## Common template
 ![[Pasted image 20250701203509.png]]
+
+
+### Delivering Framework
+![[Pasted image 20250913110343.png]]
+requirement -> core entities -> API/interface -> data flow -> high level -> deep dive
