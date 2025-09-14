@@ -1,5 +1,4 @@
-
-### **& Blogs**
+### **Blogs**
 
 1. **[History Extra](https://www.historyextra.com/)**  
     – From the BBC History Magazine. Great for daily stories, interesting historical events, and expert articles.
