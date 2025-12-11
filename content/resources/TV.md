@@ -1,6 +1,8 @@
 #resource 
 爱看机器人
 
+https://fmhy.net/video
+
 [](https://t.co/9Q49HRUckY)[https://v.ikanbot.com](https://v.ikanbot.com)
 
 厂长资源
@@ -66,3 +68,21 @@ solarmovie. one yesmovies. ag
 [https://directdownloads.org](https://directdownloads.org)
 
 [http://123movies.la](http://123movies.la)
+
+/========== download /===========
+
+[](https://rargb.to/)[https://rargb.to](https://rargb.to)
+
+[](https://www.rarbgproxy.to/)[https://www.rarbgproxy.to](https://www.rarbgproxy.to)
+
+[](https://rarbg.proxyninja.net/)[https://rarbg.proxyninja.net](https://rarbg.proxyninja.net)
+
+[](https://1337x.so/)[https://1337x.so](https://1337x.so)
+
+[](https://solidtorrents.to/)[https://solidtorrents.to](https://solidtorrents.to)
+
+[](https://bitsearch.to/)[https://bitsearch.to](https://bitsearch.to)
+
+[](https://ext.to/)[https://ext.to](https://ext.to)
+
+[](https://bitsearch.to/)[https://bitsearch.to](https://bitsearch.to)
