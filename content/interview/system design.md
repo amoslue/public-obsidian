@@ -47,3 +47,7 @@ In an interview, you should also be able to explain:
 ### Delivering Framework
 ![[Pasted image 20250913110343.png]]
 requirement -> core entities -> API/interface -> data flow -> high level -> deep dive
+
+
+CPU Cache
+![[Pasted image 20260118220025.png]]
