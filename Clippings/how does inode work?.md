@@ -92,4 +92,4 @@ Imagine going to a museum coat check:
 If you throw away the paper receipt (delete the file name), coat check ticket **#42** and the jacket in Locker **88** still exist. But without the receipt pointing to ticket **#42**, you no longer have a way to ask for it.
 
 
-so directory check the map of file name and inode (more like a pointer) and inode contains information about where the file content is stored on disk ad
+so directory check the map of file name and inode (more like a pointer) and inode contains information about where the file content is stored on disk address
